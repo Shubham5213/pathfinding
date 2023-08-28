@@ -48,3 +48,6 @@ Enter(press on keyborad):
 
 Now, sit back and see the algorithm explore your grid setup to find a shortest path between START and END cell.
 Once it reaches there, a path will be created from the END to start in purple color.
+![image](https://github.com/Shubham5213/pathfinding/assets/66840922/35cc1d42-c0d3-4e81-b21b-a47e50350ef0)
+![image (1)](https://github.com/Shubham5213/pathfinding/assets/66840922/a8c1d836-0ed7-4168-af4d-edd800637427)
+
